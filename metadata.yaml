@@ -1,0 +1,26 @@
+_repo: Women-s-Wages_52959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smart, William
+    birthdate: 1853
+    deathdate: 1915
+    gutenberg_agent_id: '47135'
+    url: http://www.gutenberg.org/2009/agents/47135
+description: ''
+gutenberg_issued: '2016-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Equal pay for equal work'
+- !lcsh 'Wages -- Women'
+- !lcsh 'Sex discrimination against women'
+- !lcc 'HD'
+- GITenberg
+title: Women's Wages
+url: http://www.gutenberg.org/ebooks/52959
